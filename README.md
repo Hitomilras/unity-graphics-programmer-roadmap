@@ -13,7 +13,7 @@ The Author of this roadmap is the creator of the Telegram channel (https://t.me/
 
 
 # Math
-- https://gamemath.com/book - on of the best book about math in games.
+- https://gamemath.com/book - one of the best book about math in games.
 
 # Basics of Render Pipelines
 - https://habr.com/ru/post/337484/ - very basics
