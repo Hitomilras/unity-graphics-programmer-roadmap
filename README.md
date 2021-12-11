@@ -1,11 +1,15 @@
-# cg-programmer-roadmap
+# unity graphics programmer roadmap.
 
 This roadmap is taken from Telegram channel aobut computer graphics in Unity Engine.
 Link to the channel: https://t.me/unity_cg
 
 Every step of the roadmap is arranged in order of complication and increasing depth of understanding. 
 
-The Author of this roadmap is the creator of the Telegram channel (https://t.me/unity_cg), not me. This is just a copy of the message from the channel to make accessible.
+The Author of this roadmap is the creator of the Telegram channel (https://t.me/unity_cg), not me. This is just a copy of the message from the channel to make accessible. You can find more information in mentioned Telegram channel.
+
+DISCLAIMER:
+- Some little amount content may be in Russian language
+- https://t.me/unity_cg uses Russian language as the main, but in case you'll write in English, I think people will understand you / answer to you.
 
 0. Math
 - https://gamemath.com/book - on of the best book about math in games.
