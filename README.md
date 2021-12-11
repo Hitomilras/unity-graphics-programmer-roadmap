@@ -11,6 +11,7 @@ The Author of this roadmap is the creator of the Telegram channel (https://t.me/
 >
 >https://t.me/unity_cg uses Russian language as the main, but in case you'll write in English, I think people will understand you & answer to you.
 
+##### If you think that these can be improved in any way, please do suggest. You can open an issue to do so.
 
 # Math
 - https://gamemath.com/book - one of the best book about math in games.
