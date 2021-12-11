@@ -1,6 +1,6 @@
 # unity3d graphics programmer roadmap.
 
-This roadmap is taken from Telegram channel aobut computer graphics in Unity 3D  game engine.
+This roadmap is taken from Telegram channel about computer graphics in Unity 3D  game engine.
 Link to the channel: https://t.me/unity_cg
 
 Every step of the roadmap is arranged in order of complication and increasing depth of understanding. 
