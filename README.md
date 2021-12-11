@@ -5,7 +5,7 @@ Link to the channel: https://t.me/unity_cg
 
 Every step of the roadmap is arranged in order of complication and increasing depth of understanding. 
 
-The Author of this roadmap is the creator of the Telegram channel (https://t.me/unity_cg), not me. This is just a copy of the message from the channel to make accessible. You can find more information in mentioned Telegram channel.
+The Author of this roadmap is the creator of the Telegram channel (https://t.me/unity_cg), not me. This is just a copy of the message from the channel to make this information more accessible. You can find more information in mentioned Telegram channel.
 
 >Some of the listed content may be in Russian language.
 >
